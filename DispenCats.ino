@@ -1,3 +1,6 @@
+
+//por WILTON MARTINEZ ESCORCIA proyecto para mi Segundo Hijo Juan Camilo para el dia de la ciencia 24 Octubre 2023
+
 #include <LiquidCrystal_I2C.h>
 #include <ThreeWire.h>
 #include <RtcDS1302.h>
